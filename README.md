@@ -7,4 +7,4 @@ Ce projet est un scrappeur automatisé conçu pour collecter et centraliser des 
 | Welcome to the Jungle | [https://www.welcometothejungle.com](https://www.welcometothejungle.com) | ⏳ À venir            | WIP              | —                        |
 | Indeed                | [https://www.indeed.fr](https://www.indeed.fr)                           | ✅ Fonctionnel          |   Playwright (chromium)      | 2025-10-28               |
 | France Travail        | [https://www.francetravail.fr](https://www.francetravail.fr)             | ⏳ À venir              | WIP         | —                        |
-| HelloWork     | [https://www.hellowork.com/fr-fr/](https://www.hellowork.com/fr-fr/)     |  ✅ Fonctionnel   | Playwright            | —                        | 2025-10-28 
+| HelloWork     | [https://www.hellowork.com/fr-fr/](https://www.hellowork.com/fr-fr/)     |  ✅ Fonctionnel   | Playwright            | —                  2025-10-28       | 
