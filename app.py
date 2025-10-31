@@ -110,5 +110,3 @@ if st.button("🚀 Lancer le scraping"):
             )
         else:
             st.warning("❌ Aucune offre trouvée sur les sites sélectionnés.")
-
-
